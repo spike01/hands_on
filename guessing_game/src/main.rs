@@ -1,35 +1,3 @@
-/* #[test]
-
-fn it_accepts_a_guess() {
-  guess(12);
-
-  assert_eq!(get_guess(), 12)
-}
-
-#[test]
-
-fn it_sets_a_guess() {
-  guess(10);
-
-  assert_eq!(get_guess(), 10)
-}
-
-fn main() {
-
-}
-
-struct Game {
-  guess: i32
-}
-
-fn guess(a: i32) {
-
-}
-
-fn get_guess() -> i32 {
-  12
-} */
-
 extern crate rand;
 
 use std::io;
